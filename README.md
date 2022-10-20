@@ -3,7 +3,7 @@ ARELY MARTINEZ
 
 OCT 19 2022 9:42 PM 
 
-RESTUARNT PICKER #9
+RESTAURANT PICKER #9
 
 THE PROGRAM WILL ASK THE USER WHAT THEY FEEL LIKE HAVING THEY 
 WILL ENTER 1 2 OR 3 DEPENDING ON WHAT THEY WANT. IF THEY DONT 
@@ -14,4 +14,4 @@ END OF THE PROGAM THE USER WILL HAVE THE OPTION TO PLAY AGAIN
 BY ENTERING IN YES AND VISE VERSA FOR NO. IF THEY DONT TYPE ANY 
 VARIATION OF YES OR NO THEY WILL BE ASK OVER AGIN UNTIL THEY DO.
 
-PEER REVIEW: NAME -- REVIEW
+PEER REVIEW: Brandon Le - The program works as intended and the code is very easy to follow along when reading. I liked how neat it looked and also the formatting of the text when it's printed into the terminal is nice. I like how she used switch statements because I didn't do my restaurant picker that way and it was cool to see how it could be done differently. Data validation worked when inputting invalid entries. Overall very good job and smooth program.
